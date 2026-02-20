@@ -6,7 +6,7 @@ A modern, fully-featured **Movie Explorer App** built with **React + Vite**, pow
 
 ## 🚀 Live Preview
 
-> Run locally using the steps below — open **http://localhost:5173**
+> Run locally using the steps below — open **https://movie-explorer-platform.netlify.app/**
 
 ---
 
@@ -91,7 +91,7 @@ npm install
 npm run dev
 ```
 
-Open **http://localhost:5173** in your browser.
+Open **https://movie-explorer-platform.netlify.app/** in your browser.
 
 ### Build for Production
 
